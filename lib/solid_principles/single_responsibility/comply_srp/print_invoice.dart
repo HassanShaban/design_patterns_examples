@@ -1,0 +1,5 @@
+class PrintInvoice {
+  void printInvoice(){
+
+  }
+}
